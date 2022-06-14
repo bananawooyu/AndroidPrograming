@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/call_112"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/fst1"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:id="@+id/call_117"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/fst2"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:id="@+id/call_118"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/fst3"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:id="@+id/call_122"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/fst4"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+</LinearLayout>

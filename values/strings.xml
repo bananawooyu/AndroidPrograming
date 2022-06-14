@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">긴급 민원 연락망</string>
+    //main
+    <string name="sel1">범죄, 사이버테러</string>
+    <string name="sel2">화재, 구급, 구조</string>
+    <string name="sel3">생활, 민원</string>
+    <string name="sel4">관광</string>
+
+    //first
+    <string name="fst1">범죄</string>
+    <string name="fst2">학교 폭력</string>
+    <string name="fst3">해킹, 사이버테러</string>
+    <string name="fst4">해양 범죄</string>
+
+    //second
+    <string name="sec1">화재, 구급, 구조</string>
+    <string name="sec2">해양 구조</string>
+
+    //third
+    <string name="thd1">민원 안내</string>
+    <string name="thd2">수도 고장</string>
+    <string name="thd3">전기 고장</string>
+    <string name="thd4">가스 고장</string>
+    <string name="thd5">고속도로 민원</string>
+
+    //forth
+    <string name="fth1">관광, 통역</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/call_120"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/thd1"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:id="@+id/call_121"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/thd2"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:id="@+id/call_123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/thd3"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/thd4"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"
+        android:enabled="false"/>
+
+    <Button
+        android:id="@+id/call_1588_2504"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/thd5"
+        android:textSize="12pt"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:backgroundTint="#FFCA28"/>
+
+</LinearLayout>
